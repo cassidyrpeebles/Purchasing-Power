@@ -1,0 +1,58 @@
+Definition|Column|Unit of measurement
+City|City|
+Country|Country|
+Meal, Inexpensive Restaurant (USD)|Meal_Inexpensive|1 meal
+Meal for 2 People, Mid-range Restaurant, Three-course (USD)|Meal_Midexpense|2 meals
+McMeal at McDonalds (or Equivalent Combo Meal) (USD)|Meal_McDonalds|1 meal
+Domestic Beer (0.5 liter draught, in restaurants) (USD)|Domestic_Beer_Restuarant|.5 L
+Imported Beer (0.33 liter bottle, in restaurants) (USD)|Imported_Beer_Restaurant|.33 L
+Cappuccino (regular, in restaurants) (USD)|Cappucino_Restaurant|1 drink
+Coke/Pepsi (0.33 liter bottle, in restaurants) (USD)|Coke_Restaurant|.33 L
+Water (0.33 liter bottle, in restaurants) (USD)|Water_Restaurant|.33 L
+Milk (regular), (1 liter) (USD)|Milk_Restaurant|1 L
+Loaf of Fresh White Bread (500g) (USD)|White_Bread|500 G
+Rice (white), (1kg) (USD)|Rice|1 KG
+Eggs (regular) (12) (USD)|Eggs|12 eggs
+Local Cheese (1kg) (USD)|Cheese_Local|1 KG
+Chicken Fillets (1kg) (USD)|Chicken_Filets|1 KG
+Beef Round (1kg) (or Equivalent Back Leg Red Meat) (USD)|Beef_Round|1 KG
+Apples (1kg) (USD)|Apples|1 KG
+Banana (1kg) (USD)|Banana|1 KG
+Oranges (1kg) (USD)|Oranges|1 KG
+Tomato (1kg) (USD)|Tomato|1 KG
+Potato (1kg) (USD)|Potato|1 KG
+Onion (1kg) (USD)|Onion|1 KG
+Lettuce (1 head) (USD)|Lettuce|1 head
+Water (1.5 liter bottle, at the market) (USD)|Water_Bottle_Market|1.5 L
+Bottle of Wine (Mid-Range, at the market) (USD)|Wine_Bottle_Market|1 bottle
+Domestic Beer (0.5 liter bottle, at the market) (USD)|Beer_Domestic_Market|.5 L
+Imported Beer (0.33 liter bottle, at the market) (USD)|Beer_Imported_Market|.33 L
+Cigarettes 20 Pack (Marlboro) (USD)|Cigarettes_Pack|20 pack
+One-way Ticket (Local Transport) (USD)|Transport_One_Way_Ticket|1 ticket
+Monthly Pass (Regular Price) (USD)|Transport_Monthly_Pass|1 pass
+Taxi Start (Normal Tariff) (USD)|Taxi_Start|1 ride
+Taxi 1km (Normal Tariff) (USD)|Taxi_1KM|1 KM
+Taxi 1hour Waiting (Normal Tariff) (USD)|Taxi_1hour|1 hour
+Gasoline (1 liter) (USD)|Gasoline|1 L
+Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) (USD)|Volkswagen_Golf_New|1 vehicle
+Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car) (USD)|Toyota_Corolla_New|1 vehicle
+Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment (USD)|Basic_Apt_Cost|85 m^2
+1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) (USD)|Prepaid_Mobile|1 minute
+Internet (60 Mbps or More, Unlimited Data, Cable/ADSL) (USD)|Internet_Unlimited_Data|1 month
+Fitness Club, Monthly Fee for 1 Adult (USD)|Fitness_Club|1 month
+Tennis Court Rent (1 Hour on Weekend) (USD)|Tennis_Court_Rent|1 hour
+Cinema, International Release, 1 Seat (USD)|Cinema|1 seat
+Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child (USD)|Preschool_Private|1 child
+International Primary School, Yearly for 1 Child (USD)|Primary_School_International|1 child
+1 Pair of Jeans (Levis 501 Or Similar) (USD)|Jeans|1 pair
+1 Summer Dress in a Chain Store (Zara, H&M, …) (USD)|Summer_Dress|1 dress
+1 Pair of Nike Running Shoes (Mid-Range) (USD)|Nike_Running_Shoes|1 pair
+1 Pair of Men Leather Business Shoes (USD)|Leather_Business_Shoes|1 pair
+Apartment (1 bedroom) in City Centre (USD)|Apartment_City_Center_1bed|1 apt
+Apartment (1 bedroom) Outside of Centre (USD)|Apartment_Outside_City_Center_1bed|1 apt
+Apartment (3 bedrooms) in City Centre (USD)|Apartment_City_Center_3bed|1 apt
+Apartment (3 bedrooms) Outside of Centre (USD)|Apartment_Outside_City_Center_3bed|1 apt
+Price per Square Meter to Buy Apartment in City Centre (USD)|Price_Psm_City_Center|1 square meter
+Price per Square Meter to Buy Apartment Outside of Centre (USD)|Price_Psm_Outside_City_Center|1 square meter
+Average Monthly Net Salary (After Tax) (USD)|Salary_Net_Monthly|1 month
+Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate|Mortgage_Interest_Rate|1 year
